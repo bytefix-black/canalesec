@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Asomavision.ec" tvg-logo="https://i.imgur.com/a5avk5R.png" group-title="Undefined",Asomavisión (614p)
+#EXTINF:-1 tvg-id="Asomavision.ec" tvg-logo="https://i.imgur.com/a5avk5R.png" group-title="Undefined",Asomavisión
 https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="AustralTV.ec" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="General",Austral TV (1080p)
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
