@@ -206,3 +206,44 @@ https://cloudvideo.servers10.com:8081/8120/index.m3u8
 #EXTINF:-1 tvg-id="Canal3LasHeras.ar" tvg-logo="https://i.imgur.com/bd2afET.png" group-title="Undefined",AR_Canal 3 Las Heras (720p)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="Canal4.cr" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="General",Canal 4 (720p) [Geo-blocked]
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="Undefined",Canal 4 (El Salvador) (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://www.tcsgo.com/
+https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="Canal4Catalunya.es" tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="General",Canal 4 Catalunya (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:-1 tvg-id="Canal4ManchaCentro.es" tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="Undefined",Canal 4 Mancha Centro (720p) [Not 24/7]
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Undefined",Canal 4 Posadas (576p)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="General",Canal 6 (720p) [Geo-blocked]
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Canal6Moreno.ar" tvg-logo="https://i.imgur.com/TefE4HC.png" group-title="Undefined",Canal 6 Moreno (720p) [Not 24/7]
+https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7Salta.ar" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Undefined",Canal 7 Salta (1080p)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1 tvg-id="Canal8SantaRosa.gt" tvg-logo="https://i.imgur.com/Nenn6gE.png" group-title="General",Canal 8 Santa Rosa (720p)
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+#EXTINF:-1 tvg-id="BarbeTV.gt" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="General",Canal 9 Barbe TV (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General",Canal 9 Resistencia (720p)
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Undefined",Canal 10 Córdoba (1080p)
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10deJunin.ar" tvg-logo="https://i.imgur.com/FdWrWgt.png" group-title="Undefined" user-agent="iPhone",Canal 10 de Junín (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=iPhone
+https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="General",Canal Más Televisión (720p)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",CINE.AR (720p) [Not 24/7]
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="General",Cinevision Canal 19 (720p)
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8
+#EXTINF:-1 tvg-id="ChampionTV.co" tvg-logo="https://i.imgur.com/A144MfR.png" group-title="Sports",Champion TV (1080p)
+https://canal.mediaserver.com.co/live/ChampionTv.m3u8
+#EXTINF:-1 tvg-id="ClaroVisionTV.do" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="Entertainment",Claro Visión TV (720p)
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+
+
