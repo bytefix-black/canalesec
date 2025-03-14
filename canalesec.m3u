@@ -289,4 +289,35 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="ElPaisTV.es" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="News",EL PAÍS TV (1080p)
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Music;Religious",3ABN Praise Him Music Network
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-id="WKBWDT1.us" tvg-logo="https://i.imgur.com/dtzR3Y1.png" group-title="Undefined",ABC 7 Buffalo NY (WKBW) (720p)
+https://apollo.production-public.tubi.io/live/ac-wkbw.m3u8
+#EXTINF:-1 tvg-id="KABCDT1.us" tvg-logo="https://imgur.com/nKAUCLF.jpg" group-title="General",ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="News",CBS News New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8f1fbb0-e9de-4ec2-b727-78b57832f3ae
+#EXTINF:-1 tvg-id="SonyCanalCompetencias.us" tvg-logo="https://i.imgur.com/Dut8Ftk.png" group-title="Undefined",Sony Canal Competencias
+https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalEscapePerfecto.us" tvg-logo="https://i.imgur.com/ohE9IgP.png" group-title="Undefined",Sony Canal Escape Perfecto
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb095-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e52ea0d7-7d74-4383-8afa-27a135057740
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="Movies",Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Entertainment",Sooriyan TV
+https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXSTVNOW.us" tvg-logo="https://i.imgur.com/lYa793q.png" group-title="Documentary",AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max (480p) [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports",FightBox
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports Network (1080p) [Geo-blocked]
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
