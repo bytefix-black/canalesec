@@ -343,7 +343,7 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-id="Investiga.us" tvg-logo="https://i.imgur.com/Sb5adD7.png" group-title="Series",Investiga
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
-#EXTINF:-1 tvg-id="Italianissimo.ve" tvg-logo="https://i.imgur.com/JCpbUZB.png" group-title="Music",Italianissimo
+#EXTINF:-1 tvg-id="Italianissimo.ve" tvg-logo="https://i.imgur.com/JCpbUZB.png" group-title="Music",Italianisimo
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 #EXTINF:-1 tvg-id="KSCEDT2.us" tvg-logo="https://i.imgur.com/970zAEn.png" group-title="Religious",KSCE Vida Cristiana
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
@@ -373,7 +373,7 @@ http://fl2.moveonjoy.com/EPIX/index.m3u8
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV en espaniol
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="General",MegavisiÃÂ³n Canal 21
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="General",Megavision Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="General",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
@@ -503,7 +503,7 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 https://streamer1.nexgen.bz/STAR/index.m3u8
 #EXTINF:-1 tvg-id="SuperCanal.pe" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="Undefined",Super Canal Yurimaguas
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-id="SintesisTV.mx" tvg-logo="https://i.imgur.com/1g9mbqi.png" group-title="General",SÃÂ­ntesis TV
+#EXTINF:-1 tvg-id="SintesisTV.mx" tvg-logo="https://i.imgur.com/1g9mbqi.png" group-title="General",Sintesis TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 #EXTINF:-1 tvg-id="TDtv.cr" tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="General",TDtv
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
@@ -533,7 +533,8 @@ https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="Undefined",TeleCibao
 https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",TeleSUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8#EXTINF:-1 tvg-id="Telealtura.do" tvg-logo="https://i.imgur.com/Ql2eaP0.png" group-title="General",Telealtura
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telealtura.do" tvg-logo="https://i.imgur.com/Ql2eaP0.png" group-title="General",Telealtura
 https://fl1002.bozztv.com/ssh101/codificador7/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecanal12.do" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Undefined",Telecanal 12
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
